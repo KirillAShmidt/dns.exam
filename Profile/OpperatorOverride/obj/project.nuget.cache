@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6fpU1CW/c0hMzIj/Q97+7SzN0fzRlQHm+NYlTZgeNKN71g5lOtMQ5gVfXd7dZmG/Sl2alN2QMekUSJCSQcUEFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirill\\source\\repos\\Profile\\OpperatorOverride\\OpperatorOverride.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dev-itweb-nuget.partner.ru/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIYzPwEBKRDfZT+jiRqMGlKqvnX4H4dNSoHUyqb7isnEeRITNal9OUuJ8I6qcsbbjdfUhfIBr442RoPKyrUElA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirill\\source\\repos\\Profile\\Generics\\Generics.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dev-itweb-nuget.partner.ru/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

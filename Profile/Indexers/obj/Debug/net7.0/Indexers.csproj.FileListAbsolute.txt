@@ -1,0 +1,15 @@
+C:\Users\Kirill\source\repos\Profile\Indexers\bin\Debug\net7.0\Indexers.exe
+C:\Users\Kirill\source\repos\Profile\Indexers\bin\Debug\net7.0\Indexers.deps.json
+C:\Users\Kirill\source\repos\Profile\Indexers\bin\Debug\net7.0\Indexers.runtimeconfig.json
+C:\Users\Kirill\source\repos\Profile\Indexers\bin\Debug\net7.0\Indexers.dll
+C:\Users\Kirill\source\repos\Profile\Indexers\bin\Debug\net7.0\Indexers.pdb
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\Indexers.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\Indexers.AssemblyInfoInputs.cache
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\Indexers.AssemblyInfo.cs
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\Indexers.dll
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\refint\Indexers.dll
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\Indexers.pdb
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\Indexers.genruntimeconfig.cache
+C:\Users\Kirill\source\repos\Profile\Indexers\obj\Debug\net7.0\ref\Indexers.dll

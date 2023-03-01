@@ -1,0 +1,15 @@
+C:\Users\Kirill\source\repos\Profile\Polymorphism\bin\Debug\net7.0\Polymorphism.exe
+C:\Users\Kirill\source\repos\Profile\Polymorphism\bin\Debug\net7.0\Polymorphism.deps.json
+C:\Users\Kirill\source\repos\Profile\Polymorphism\bin\Debug\net7.0\Polymorphism.runtimeconfig.json
+C:\Users\Kirill\source\repos\Profile\Polymorphism\bin\Debug\net7.0\Polymorphism.dll
+C:\Users\Kirill\source\repos\Profile\Polymorphism\bin\Debug\net7.0\Polymorphism.pdb
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfo.cs
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\Polymorphism.dll
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\refint\Polymorphism.dll
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\Polymorphism.pdb
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\Polymorphism.genruntimeconfig.cache
+C:\Users\Kirill\source\repos\Profile\Polymorphism\obj\Debug\net7.0\ref\Polymorphism.dll
