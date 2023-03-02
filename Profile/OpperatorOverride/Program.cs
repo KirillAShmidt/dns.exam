@@ -1,4 +1,8 @@
-﻿public class Program
+﻿using BenchmarkDotNet.Attributes;
+using BenchmarkDotNet.Running;
+
+[MemoryDiagnoser]
+public class Program
 {
 	public class MegaHugeNumber
 	{
@@ -37,9 +41,66 @@
 		}
 	}
 
+	[Benchmark]
+	public int AddBigAmount()
+	{
+		int result = 0;
+		
+		for (int i = 0; i < 10000; i++)
+		{
+			result += new MegaHugeNumber("1") + new MegaHugeNumber("2");
+		}
+
+		return result;
+	}
+	
+	
+	public int AddMediumAmount()
+	{
+		int result = 0;
+		
+		for (int i = 0; i < 1000; i++)
+		{
+			result += new MegaHugeNumber("1") + new MegaHugeNumber("2");
+		}
+
+		return result;
+	}
+	
+	public int AddSmallAmount()
+	{
+		int result = 0;
+		
+		for (int i = 0; i < 1000; i++)
+		{
+			result += new MegaHugeNumber("1") + new MegaHugeNumber("2");
+		}
+
+		return result;
+	}
+
+	[Benchmark]
+	public int AddInt()
+	{
+		int result = 0;
+		
+		for (int i = 0; i < 10000; i++)
+		{
+			result += 3;
+		}
+
+		return result;
+	}
 
 	public static void Main(string[] args)
 	{
 		Console.WriteLine(new MegaHugeNumber("123") + new MegaHugeNumber("234"));
+		var summary = BenchmarkRunner.Run<Program>();
+	}
+	
+	[GlobalSetup]
+	public void Setup()
+	{
+		System.Diagnostics.Debugger.Launch();
 	}
 }
